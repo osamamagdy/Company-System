@@ -1,5 +1,4 @@
-# school-manager
+# Company-System
 
-install docker 
+this branch uses k8s deployments
 
-docker-compose up
